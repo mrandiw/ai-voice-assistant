@@ -82,6 +82,14 @@ The Gradio interface will start locally and can be accessed via your web browser
 - **Local Processing**: All data remains on your device for enhanced privacy
 - **Extensible Architecture**: Easily integrate additional models or functionality
 
+## Video Example
+<div align="center">
+    <video width="640" height="360" controls>
+        <source src="https://github.com/mrandiw/ai-voice-assistant/raw/master/videos/assistant-example.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+
 ## Troubleshooting
 
 For common issues, see our [troubleshooting guide](./docs/troubleshooting.md).
