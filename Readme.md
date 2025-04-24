@@ -83,7 +83,9 @@ The Gradio interface will start locally and can be accessed via your web browser
 - **Extensible Architecture**: Easily integrate additional models or functionality
 
 ## Video Example
-https://github.com/mrandiw/ai-voice-assistant/raw/master/videos/assistant-example.mp4
+https://github.com/user-attachments/assets/21be38bb-11a5-4cc1-a6ed-d65b9b4db176
+
+
 
 ## Troubleshooting
 
