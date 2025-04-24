@@ -83,12 +83,7 @@ The Gradio interface will start locally and can be accessed via your web browser
 - **Extensible Architecture**: Easily integrate additional models or functionality
 
 ## Video Example
-<div align="center">
-    <video width="640" height="360" controls>
-        <source src="https://github.com/mrandiw/ai-voice-assistant/raw/master/videos/assistant-example.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
+https://github.com/mrandiw/ai-voice-assistant/raw/master/videos/assistant-example.mp4
 
 ## Troubleshooting
 
