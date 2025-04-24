@@ -14,6 +14,10 @@ A sophisticated voice-based AI assistant that operates entirely locally, integra
 - **Language Processing**: Connects with Ollama to run large language models locally
 - **User Interface**: Features an intuitive Gradio-based interface
 
+## Architecture
+![AI Voice Assistant](https://github.com/user-attachments/assets/9caf2d87-671e-482f-a953-0bb5b1a48000)
+
+
 ## System Requirements
 
 - Python 3.12 or newer
